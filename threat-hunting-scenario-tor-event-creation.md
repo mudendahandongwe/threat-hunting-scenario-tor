@@ -1,4 +1,4 @@
-# Threat Event (Unauthorized TOR Usage)
+# Threat Event (Unauthorised TOR Usage)
 **Unauthorized TOR Browser Installation and Use**
 
 ## Steps the "Bad Actor" took Create Logs and IoCs:
@@ -74,7 +74,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Mudenda H
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Contact**: https://www.linkedin.com/in/mudenda-h-7a5a75177/
 - **Date**: August 31, 2024
 
 ## Validated By:
